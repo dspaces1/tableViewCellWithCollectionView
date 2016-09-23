@@ -1,0 +1,6 @@
+framework module Pods_Empty_Swift_2_2 {
+  umbrella header "Pods-Empty-Swift-2.2-umbrella.h"
+
+  export *
+  module * { export * }
+}
